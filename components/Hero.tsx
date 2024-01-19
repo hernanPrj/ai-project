@@ -6,7 +6,6 @@ import styles from "@/styles/style";
 import { discount, LabelCoverHero } from "@/public/assets";
 
 const Hero: React.FC<any> = ({ heroSection, getStarted }) => {
-
   return (
     <section
       id="home"
@@ -56,7 +55,7 @@ const Hero: React.FC<any> = ({ heroSection, getStarted }) => {
       </div>
 
       <div className={`${styles.flexCenter} ss:hidden`}>
-        <GetStarted heroSection={heroSection} />
+        <GetStarted getStarted={getStarted} />
       </div>
     </section>
   );
