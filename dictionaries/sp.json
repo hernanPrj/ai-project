@@ -1,0 +1,214 @@
+{
+  "Home": {
+    "footer": {
+      "title": "Una nueva forma de facilitar tu negocio. \"E-etiquetas para otros niveles\"",
+      "footerLinks": [
+        {
+          "id": "footerLinks-1",
+          "title": "Enlaces útiles",
+          "links": [
+            {
+              "name": "Términos y Servicios",
+              "link": "https://www.hoobank.com/terms-and-services/"
+            }
+          ]
+        },
+        {
+          "id": "footerLinks-2",
+          "title": "Servicio al Cliente",
+          "links": [
+            {
+              "name": "Centro de Ayuda",
+              "link": "https://www.hoobank.com/help-center/"
+            }
+          ]
+        },
+        {
+          "id": "footerLinks-3",
+          "title": "Socio",
+          "links": [
+            {
+              "name": "Nuestro Socio",
+              "link": "https://www.hoobank.com/our-partner/"
+            },
+            {
+              "name": "Conviértete en Socio",
+              "link": "https://www.hoobank.com/become-a-partner/"
+            }
+          ]
+        }
+      ],
+      "socialMedia": [
+        {
+          "id": "social-media-1",
+          "icon": "path_to_instagram_icon",
+          "link": "/"
+        },
+        {
+          "id": "social-media-2",
+          "icon": "path_to_facebook_icon",
+          "link": "https://www.facebook.com/"
+        },
+        {
+          "id": "social-media-3",
+          "icon": "path_to_twitter_icon",
+          "link": "https://www.twitter.com/"
+        },
+        {
+          "id": "social-media-4",
+          "icon": "path_to_linkedin_icon",
+          "link": "https://www.linkedin.com/"
+        }
+      ],
+      "rightMessage": "2023 © NXT AI. Todos los derechos reservados."
+    },
+
+    "CTA": {
+      "title": "¡Probemos nuestro servicio ahora!",
+      "contact": {
+        "name": "Nombre",
+        "email": "Correo Electrónico",
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "message": "Mensaje",
+        "phone": "Teléfono",
+        "submit": "Enviar"
+      }
+    },
+
+    "Client": {
+      "title": "Contacto",
+      "clients": [
+        {
+          "id": "client-1",
+          "logo": "@/public/assets/MedicityLogo.svg"
+        }
+      ]
+    },
+
+    "CardDeal": {
+      "title": "¿Cómo funciona?",
+      "desc1": "Los sistemas de etiquetas electrónicas para estantes (ESL) se utilizan para mostrar y actualizar automáticamente los precios de los productos en los estantes. Suelen estar compuestos por tres componentes:",
+      "desc2": "El software de gestión de etiquetas proporciona una forma intuitiva para que los usuarios gestionen fácilmente precios e información de stock para cada producto en toda su red de tiendas. Esta información se envía al controlador de comunicación a través de Wi-Fi antes de ser transmitida a los módulos de visualización de papel electrónico mediante una señal Wi-Fi privada de 2.4 GHz para una seguridad óptima en la transferencia de datos. Las actualizaciones se implementan automáticamente en todo el piso de la tienda al instante.",
+      "links": [
+        { "name": "Software de gestión de etiquetas." },
+        { "name": "Controladores de comunicación." },
+        { "name": "Módulos de visualización de papel electrónico." }
+      ]
+    },
+
+    "BillingDetails": {
+      "billingtitle": "¿Por qué E-Labels?",
+      "billings": [
+        {
+          "id": "billing-1",
+          "icon": "check",
+          "title": "Nube",
+          "content": "Implementación en la nube Saas y privada."
+        },
+        {
+          "id": "billing-2",
+          "icon": "check",
+          "title": "Garantía",
+          "content": "Más de 10 años de experiencia en software y hardware inalámbricos."
+        },
+        {
+          "id": "billing-3",
+          "icon": "check",
+          "title": "Desarrollo",
+          "content": "Una solución rápida y personalizada según las necesidades de la industria."
+        },
+        {
+          "id": "billing-4",
+          "icon": "check",
+          "title": "Calidad",
+          "content": "Modelo de control de costos de extremo a extremo con un producto de super calidad."
+        }
+      ]
+    },
+
+    "BusinessDetails": {
+      "title1": "Haz el negocio",
+      "title2": "Nosotros lo etiquetamos.",
+      "desc": "Con el poder de nuestro E-LabelNxt, puedes mejorar tu tiempo de negocio, tus finanzas y tus precios de mercado en tiempo real. Olvídate del papel y las etiquetas inactivas. El futuro es ESL.",
+      "features": [
+        {
+          "id": "feature-1",
+          "title": "Tecnología inalámbrica RFID",
+          "content": "Actualización en tiempo real de etiquetas de precio a granel."
+        },
+        {
+          "id": "feature-2",
+          "title": "Reducción de costos laborales",
+          "content": "Lograr el crecimiento de beneficios en los supermercados."
+        },
+        {
+          "id": "feature-3",
+          "title": "En línea y fuera de línea",
+          "content": "Sincronización de datos en varias tiendas."
+        }
+      ]
+    },
+
+    "Stats": [
+      {
+        "id": "stats-1",
+        "title": "Actualización en tiempo real",
+        "value": "100%"
+      },
+      {
+        "id": "stats-2",
+        "title": "Eficiencia energética alta",
+        "value": "100%"
+      },
+      {
+        "id": "stats-3",
+        "title": "Bajo índice de error",
+        "value": "0.01%"
+      }
+    ],
+
+    "Herosection": {
+      "getstartedt1": "",
+      "getstartedt2": "ESL del futuro",
+      "t1": "La Próxima",
+      "t2": "Generación",
+      "t3": "Etiqueta Electrónica para Estantes",
+      "label1": "Las etiquetas",
+      "label2": "son mejores",
+      "label3": "con",
+      "label4": "IA",
+      "desc": "Nuestro equipo de expertos utiliza una metodología para identificar, a través de la inteligencia artificial, la mejor solución para tu negocio.",
+
+      "contact": [
+        {
+          "id": "contacto",
+          "title": "Contáctanos"
+        }
+      ]
+    },
+
+    "NavLinks": [
+      {
+        "id": "home",
+        "title": "Inicio"
+      },
+      {
+        "id": "features",
+        "title": "Características"
+      },
+      {
+        "id": "product",
+        "title": "Producto"
+      },
+      {
+        "id": "clients",
+        "title": "Clientes"
+      }
+    ],
+
+    "GetStarted": {
+      "t1": "Obtén tu",
+      "t2": "Futuro ESL"
+    }
+  }}
